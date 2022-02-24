@@ -1,0 +1,22 @@
+Vrijeme trajanja simulacije: 23
+Broj kreiranih stanovnika: 15
+Broj odraslih: 5
+Broj starih: 5
+Broj djece: 5
+Broj kuca: 5
+Broj ambulantnih vozila: 5
+Broj ambulanti: 4
+Broj kontrolnih punktova: 5
+STATISTIKA
+Ukupno zarazenih: 0
+Ukupno oporavljenih: 0
+Zarazeno odraslih: 0
+Oporavljeno odraslih: 0
+Zarazeno starih: 0
+Oporavljeno starih: 0
+Zarazeno djece: 0
+Oporavljeno djece: 0
+Zarazeno muskih: 0
+Oporavljeno muskih: 0
+Zarazeno zenskih: 0
+Oporavljeno zenskih: 0
